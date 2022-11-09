@@ -11,7 +11,7 @@ K:Ab style=rhythm
 "Dbmaj9" B4 | "C7#9" B4 | "Fm9" B4 | "Fm9" B4 
 ```
 
-> [!Progression]
+> [!Plan]
 Degree | Chord | Triads  | Scale 
 |------------ | ------------| ------------| ------------| 
 | IV | Dbmaj9  | Db Fm | [[Db Lydian]]

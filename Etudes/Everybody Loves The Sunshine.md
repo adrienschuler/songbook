@@ -14,7 +14,7 @@ P:B
 "F#m9" B1 "C#m7" B1 "Am9" B1 | B1 "Bm7" B1
 ```
 
-> [!Progression]
+> [!Plan]
 Degree | Chord | Triads  | Scale 
 |------------ | ------------| ------------| ------------| 
 | | C#/D# = D#9sus4 | |

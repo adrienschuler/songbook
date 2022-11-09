@@ -10,7 +10,7 @@ U:n=!style=normal!
 K:G style=rhythm
 "Cmaj7/G" B4 | "B7b13/A" B4 | "Gmaj7" B4 | "Cmaj7" B4
 ```
-> [!Progression]
+> [!Plan]
 Degree | Chord | Triads  | Scale 
 |------------ | ------------| ------------| ------------| 
 |IV| Cmaj7/G  | C Em | [[C Lydian]]

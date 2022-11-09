@@ -10,7 +10,7 @@ U:n=!style=normal!
 K:E style=rhythm
 "E/G#" B4 | "Esus4/A" B4 | "Amaj7" B4 | "Am9" B4 |
 ```
-> [!Progression]
+> [!Plan]
 Degree | Chord | Triads  | Scale 
 |------------ | ------------| ------------| ------------| 
 |I| E/G#  | E Gm | [[E major]] 

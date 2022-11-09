@@ -14,7 +14,7 @@ K:B style=rhythm
 %X/X.6/1.5/3.6/b7.5/b9.X/X[D#7b9] | %4/1.X/X.4/7.4/b3.4/5.X/X[G#m7]
 ```
 
-> [!Progression]
+> [!Plan]
 Degree | Chord | Triads  | Scale 
 |------------ | ------------| ------------| ------------| 
 |V| D♯7♭9  | D# Fm | [[Dsharp Phrygian Dominant]]
@@ -22,4 +22,4 @@ Degree | Chord | Triads  | Scale
 
 ![[Dsharp Phrygian Dominant]]
 
-![[Gsharp minor]]
+![[Music/Scales/Gsharp minor]]
