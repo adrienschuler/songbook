@@ -1,4 +1,6 @@
 #blues #soul #funk
+
+https://school.hack-ta-guitare.com/view/courses/defi-des-furieux-de-l-arpege/469091-colors/1373944-jour-40-solo-d-etude
 ```music-abc
 X:1
 T:Colors
