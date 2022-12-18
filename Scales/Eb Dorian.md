@@ -1,6 +1,6 @@
-|D|E|F|G|A|B|C|
+|Eb|F|G|Ab|Bb|C|Db|
 |-|-|-|-|-|-|-| 
 |i|ii|bIII|IV|v|vi|bVII|
-|Dm|Em|F|G|Am|Bdim|C|
-|Dm7|Em7|Fmaj7|G7|Am7|Bm7b5|Cmaj7|
+|Ebm|Fm|G|Ab|Bbm|Cdim|Db|
+|Ebm7|Fm7|Gmaj7|Ab7|Bbm7|Cm7b5|Dbmaj7|
 | 9,11,13 | b9,11,13 | 9,#11,13 | 9,11,13 | 9,11,b13 | b9,11,b13 | 9,11,13

@@ -16,10 +16,10 @@ Degree | Chord | Triads  | Scale
 |------------ | ------------| ------------| ------------| 
 | IV | Dbmaj9  | Db Fm | [[Db Lydian]]
 | V/vi | C7#9 | C | [[C Altered]]
-| vi | Fm9 | Fm A | [[F minor]]
+| vi | Fm9 | Fm A | [[F Minor]]
 
 ![[Db Lydian]]
 
 ![[C Altered]]
 
-![[F minor]]
+![[F Minor]]

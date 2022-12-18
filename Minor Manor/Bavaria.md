@@ -19,7 +19,7 @@ Degree | Chord | Triads  | Scale
 |------------ | ------------| ------------| ------------| 
 |vi | Bm | | [[Music/Scales/B Minor]]
 |I | Dmaj7 | Dm F#m | [[Music/Scales/D Major]]
-|ii | Em6 |  | [[Music/Scales/E Dorian]]
+|ii | Em6 |  | [[Eb Dorian]]
 |I | D6/F# |  | [[Music/Scales/D Major]]
 |vi | Bm/D |  | [[Music/Scales/B Minor]]
 

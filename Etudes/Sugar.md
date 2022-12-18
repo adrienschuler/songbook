@@ -15,7 +15,7 @@ Degree | Chord | Triads  | Scale
 |------------ | ------------| ------------| ------------| 
 |IV| Cmaj7/G  | C Em | [[C Lydian]]
 |V/vi|B7b13/A  | B Ddim | [[B Phrygian dominant]]
-| I | Gmaj7 | G Bm | [[G major]]
+| I | Gmaj7 | G Bm | [[G Major]]
 |IV |Cmaj7 | C Em | [[C Lydian]]
 
 
@@ -23,7 +23,7 @@ Degree | Chord | Triads  | Scale
 
 ![[B Phrygian Dominant]]
 
-![[G major]]
+![[G Major]]
 
 
 

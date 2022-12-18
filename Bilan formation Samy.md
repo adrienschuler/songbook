@@ -3,12 +3,15 @@
 
 - Toujours travailler en contexte Rhythmique (métronome/backing track batterie) ET harmonique (grille d'accords)
 - Planifier sa session de pratique en blocs de 45min/1h max
+	- Démarrer à tempo lent, éviter au maximum les erreurs
 	- Couper toute distraction (mode avion)
 	- Focus sur 1 ou 2 sujets max
 	- Bonne posture détendue, respiration contrôlée
 	- Relâcher le poignet et redresser la posture dès qu'il y'a tension
-	- Pauses de min10min entre chaque blocs, visualiser le manche
+	- Pauses de minimum 10min entre chaque blocs, visualiser le manche
 	- Varier les positions assises/debouts et dans la pièce
+- Définir un plan tonal 
+- Harmoniser la gamme/mode
 - Freezer un accord et décomposer son mode en triades au métronome
 - Freezer un accord et explorer les triades qui sonnent bien (suspendues :))
 - Enregistrer une loop/backing track sur une grille du moment (répertoire/relevé/composée...)
@@ -79,10 +82,19 @@ Développer et internaliser le language rhythmique, le groove
 - Se forcer à relever des accords!
 - Relever des patterns rythmiques
 
-
-
 ## Harmonie
 
-- Valt 
+- Mineur harmonique très souvent utilisé sur Vb13
 	- Phrygien Dominant
+- Vb9 et V#9 
 	- Gamme altérée
+- Stratégies ii V I
+	- cibler une triade par accords
+	- jouer uniquement le V mixo, le reste en I majeur
+	- définir une paire de triades (lesquelles?)
+- Voice leading
+	- Choisir les voicing en fonction de la conduite de voie suppérieures 
+
+Pratique délibérée
+- jazz duet 
+- 

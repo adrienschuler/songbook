@@ -20,11 +20,11 @@ Degree | Chord | Triads  | Scale
 |------------ | ------------| ------------| ------------| 
 | ii | Dm9 | Dm F | [[Music/Scales/D Dorian]]
 | subV | Db9  | Db Fdim | [[Music/Scales/Db Lydian Augmented]]
-| I | C69  | C | [[Music/Scales/C major]]
+| I | C69  | C | [[C Major]]
 
 ![[D Dorian]]
 
 ![[Db Lydian Augmented]]
 
-![[C major]]
+![[C Major]]
 
