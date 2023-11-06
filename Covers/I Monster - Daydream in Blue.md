@@ -1,0 +1,55 @@
+Fm Ab/Eb Dm7b5 Db
+
+Daydream  
+I fell asleep amid the flowers  
+For a couple of hours  
+On a beautiful day
+
+Daydream  
+I dream of you amid the flowers  
+For a couple of hours  
+Such a beautiful day
+
+I dream a dirty dream of you, baby  
+You're crawling on the bathroom floor  
+You float around the room and you're naked  
+Then you're flying out the bedroom door  
+I dream a dirty dream  
+I dream a dirty dream
+
+Daydream  
+I fell asleep amid the flowers  
+For a couple of hours  
+On a beautiful day
+
+Daydream  
+I dream of you amid the flowers  
+For a couple of hours  
+Such a beautiful day
+
+I dream a dirty dream of you, baby  
+You're swinging from the chandelier  
+I'm climbing up the walls 'cause I want you  
+But when I reach you, you disappear  
+I dream a dirty dream  
+I dream a dirty dream
+
+Daydream  
+I fell asleep amid the flowers  
+For a couple of hours  
+On a beautiful day
+
+Daydream  
+I dream of you amid the flowers  
+For a couple of hours  
+Such a beautiful day
+
+Daydream  
+I fell asleep amid the flowers  
+For a couple of hours  
+On a beautiful day
+
+Daydream  
+I dream of you amid the flowers  
+For a couple of hours  
+Such a beautiful day

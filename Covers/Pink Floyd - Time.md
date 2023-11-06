@@ -1,10 +1,8 @@
 #acoustic
 ```music-abc
-X:1
 C:Pink Floyd
 M:4/4
 L:1/4
-U:n=!style=normal!
 K:A style=rhythm
 |: "F#m" B4 | "A" B4 | "E" B4 | "F#m" B4 :| 
 ```

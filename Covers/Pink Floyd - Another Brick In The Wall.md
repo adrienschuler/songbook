@@ -1,10 +1,8 @@
 
 ```music-abc
-X:1
 C:Pink Floyd
 M:4/4
 L:1/4
-U:n=!style=normal!
 K:F style=rhythm
 |: "Dm" B4 | "Dm" B4 | "Dm" B4 | "Dm" B4 
 | "G/D" B4 | "G/D" B4 | "G/D" B4 | "Dm" B4 

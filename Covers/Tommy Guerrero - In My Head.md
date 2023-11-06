@@ -1,9 +1,8 @@
+
 ```music-abc
-X:1
 C:Tommy Guerrero
 M:4/4
 L:1/4
-U:n=!style=normal!
 K:A style=rhythm
 P:A
 |: "A" B2 "F#m7" B2 | "C#m7" B4 | "C#m7" B4 | "C#m7" B4 :|

@@ -1,11 +1,9 @@
 #jazz #bebop
 
 ```music-abc
-X:1
 C:Bobby Timmons
 M:4/4
 L:1/4
-U:n=!style=normal!
 K:Ab style=rhythm
 P:A
 "Bb" B2 "F" B2 |

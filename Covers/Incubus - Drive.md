@@ -1,10 +1,7 @@
 #acoustic
 ```music-abc
-X:1
 C:Incubus
 M:4/4
-L:1/4
-U:n=!style=normal!
 K:G style=rhythm
 P:A
 |: "Em7" B4 | "Em9" B2 "Cmaj7" B2 | "Cmaj7" B4 :| 

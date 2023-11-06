@@ -1,9 +1,6 @@
 ```music-abc
-X:1
 C:Bright Curse
 M:4/4
-L:1/4
-U:n=!style=normal!
 K:Eb style=rhythm
 |: "Cm7" B4 | "Eb" B4 | "Ab" B4 | "Gm7" B4 :|
 ```
@@ -14,7 +11,7 @@ J’aurai eu le temps de prendre mes jambes à mon coup,
 mille fois  
 Mais je ne suis pas seul et nous aimons le danger,  
 Parfois  
-  
+
 Tu nous as offert une sacrée virée  
 Quand tu t’es pointé sans t’annoncer  
 Tu as rendu ma muse heureuse,  

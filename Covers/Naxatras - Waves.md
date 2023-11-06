@@ -1,9 +1,7 @@
 ```music-abc
-X:1
 C:Naxatras
 M:4/4
 L:1/4
-U:n=!style=normal!
 K:C style=rhythm
 P:A
 |: "Cmaj7" B4 :| 

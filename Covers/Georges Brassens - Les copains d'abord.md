@@ -1,9 +1,7 @@
 ```music-abc
-X:1
 C:Georges Brassens
 M:4/4
 L:1/4
-U:n=!style=normal!
 K:D style=rhythm
 |: "D" B4 | "D" B4 | "D" B4 | "D" B4 | 
 "E7" B4 | "E7" B4 | "E7" B4 | "E7" B4 |
